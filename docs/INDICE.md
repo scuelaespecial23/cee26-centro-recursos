@@ -17,9 +17,9 @@
 
 ## 4) Scripts
 
-- `scripts/README.md`
-- `scripts/automatizar_inclusion_v2.py`
-- `scripts/GUIA_USO_INCLUSION_V2.md`
+- [Scripts - vista general](../scripts/README.md)
+- [Guia de uso Inclusion v2.0](../scripts/GUIA_USO_INCLUSION_V2.md)
+- [Descargar script Inclusion v2.0](https://raw.githubusercontent.com/guillenec/cee26-centro-recursos/main/scripts/automatizar_inclusion_v2.py)
 
 ## 5) Recursos compartidos
 
