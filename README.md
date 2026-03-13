@@ -34,6 +34,12 @@ En paralelo se esta desarrollando una app web para centralizar estos flujos de t
 - `scripts/`: scripts de automatizacion y sus guias de uso.
 - `recursos_compartidos/`: materiales y modelos reutilizables.
 
+## Arranque rapido
+
+- Revisar `docs/INDICE.md` para navegar por area.
+- Revisar `CONTRIBUTING.md` antes de proponer cambios.
+- Para inclusion, ver `scripts/GUIA_USO_INCLUSION_V2.md`.
+
 ## Proximos pasos sugeridos
 
 1. Inicializar este directorio como repositorio git.
