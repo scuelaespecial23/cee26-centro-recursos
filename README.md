@@ -22,6 +22,7 @@ La idea es simple: concentrar en un solo lugar la documentacion, las guias de tr
 4. [Documentacion tecnica e infraestructura](./docs/INFRAESTRUCTURA/README.md)
 5. [Scripts y automatizaciones](./scripts/README.md)
 6. [Recursos compartidos y modelos base](./recursos_compartidos/README.md)
+7. [Propuestas educativas](./docs/propuestas_educativas/README.md)
 
 ## Estado actual
 
