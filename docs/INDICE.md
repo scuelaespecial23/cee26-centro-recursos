@@ -1,26 +1,44 @@
 # Indice general
 
-## 1) Guias
+Ultima actualizacion: 2026-03-30
 
-- `docs/GUIAS/README.md`
-- `docs/GUIAS/guia_docentes_uso_recursos.md`
+## 1. Inicio rapido
 
-## 2) Infraestructura
+- [README principal](../README.md)
+- [Como colaborar](../CONTRIBUTING.md)
 
-- `docs/INFRAESTRUCTURA/README.md`
-- `docs/INFRAESTRUCTURA/proyecto_servidor_impresoras.md`
+## 2. Guias y tutoriales
 
-## 3) Normativa
+- [Guias - vista general](./GUIAS/README.md)
+- [Guia breve para docentes](./GUIAS/guia_docentes_uso_recursos.md)
+- [Guia basica de normas APA](./GUIAS/guia_basica_normas_apa.md)
+- [Guia detallada del script de inclusion](../scripts/GUIA_USO_INCLUSION_V2.md)
 
-- `docs/NORMATIVA/README.md`
-- `docs/NORMATIVA/reglamento_prestamos_borrador.md`
+## 3. Normativa institucional
 
-## 4) Scripts
+- [Normativa - vista general](./NORMATIVA/README.md)
+- [Reglamento de prestamos - borrador](./NORMATIVA/reglamento_prestamos_borrador.md)
+- [Politica de uso de equipamiento - borrador](./NORMATIVA/politica_uso_equipamiento_borrador.md)
+- [Politica de backup - borrador](./NORMATIVA/politica_backup_borrador.md)
+
+## 4. Infraestructura y soporte
+
+- [Infraestructura - vista general](./INFRAESTRUCTURA/README.md)
+- [Proyecto de servidor de impresoras](./INFRAESTRUCTURA/proyecto_servidor_impresoras.md)
+
+## 5. Scripts y automatizaciones
 
 - [Scripts - vista general](../scripts/README.md)
-- [Guia de uso Inclusion v2.0](../scripts/GUIA_USO_INCLUSION_V2.md)
-- [Descargar script Inclusion v2.0](https://raw.githubusercontent.com/guillenec/cee26-centro-recursos/main/scripts/automatizar_inclusion_v2.py)
+- [Script principal de inclusion](../scripts/automatizar_inclusion_v2.py)
+- [Guia de uso del script](../scripts/GUIA_USO_INCLUSION_V2.md)
 
-## 5) Recursos compartidos
+## 6. Recursos compartidos
 
-- `recursos_compartidos/README.md`
+- [Recursos compartidos - vista general](../recursos_compartidos/README.md)
+
+## 7. Pendientes sugeridos
+
+- Agregar plantillas reales de documentos institucionales.
+- Sumar tutoriales cortos en video o con capturas.
+- Publicar versiones aprobadas de la normativa.
+- Incorporar mas scripts o herramientas segun necesidad.

@@ -1,31 +1,28 @@
 # Scripts de automatizacion
 
-Esta carpeta concentra scripts utiles para tareas operativas.
+Esta carpeta concentra automatizaciones y sus guias de uso.
 
-Estructura recomendada por script:
+## Disponible hoy
 
-- Script principal (`*.py`, `*.sh`, etc.).
-- Guia de uso con ejemplos reales.
-- CSV o plantillas de prueba en una carpeta separada.
+- `automatizar_inclusion_v2.py`: crea estructura de carpetas y permite distribuir documentacion comun. Se puede usar tanto en Linux como en Windows con Python 3.
+- `GUIA_USO_INCLUSION_V2.md`: guia detallada de uso en Linux y Windows.
 
-Scripts iniciales para migrar aqui:
+## Recomendacion de uso
 
-- `automatizar_inclusion_v2.py`
-- `GUIA_USO_INCLUSION_V2.md`
+Antes de ejecutar cualquier script:
 
-Acceso rapido:
+1. leer la guia,
+2. probar primero con `--dry-run`,
+3. validar rutas y archivos de entrada,
+4. recien despues ejecutar en modo real.
 
-- [Abrir guia de uso](./GUIA_USO_INCLUSION_V2.md)
-- [Descargar script](https://raw.githubusercontent.com/guillenec/cee26-centro-recursos/main/scripts/automatizar_inclusion_v2.py)
+## Acceso rapido
 
-Uso recomendado de Inclusion v2.0:
+- [Abrir guia detallada](./GUIA_USO_INCLUSION_V2.md)
+- [Abrir script principal](./automatizar_inclusion_v2.py)
 
-```bash
-python3 scripts/automatizar_inclusion_v2.py --base-dir . --anio 2026 --students-csv scripts/estudiantes_2026.csv
-```
-
-Descarga por consola:
+## Ejemplo minimo
 
 ```bash
-wget -O automatizar_inclusion_v2.py https://raw.githubusercontent.com/guillenec/cee26-centro-recursos/main/scripts/automatizar_inclusion_v2.py
+python3 scripts/automatizar_inclusion_v2.py --base-dir . --anio 2026 --students-csv scripts/estudiantes_2026.csv --dry-run
 ```

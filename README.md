@@ -1,48 +1,59 @@
-# CEE 26 - Centro de Recursos Operativos
+# Escuela de Educacion Especial 23 - Centro de Recursos
 
-Este repositorio nace como una base de trabajo profesional para ordenar, documentar y sostener los procesos operativos de la institucion.
+![Portada institucional de prueba](./docs/imagenes/portada_placeholder_ee23.svg)
 
-La idea no es que sirva solo para el rol TIC. Este espacio esta pensado para que el equipo docente y de gestion pueda encontrar, reutilizar y mejorar recursos en comun: guias, tutoriales, plantillas, scripts y procedimientos.
+Este repositorio funciona como centro de recursos institucional para la Escuela de Educacion Especial 23.
 
-## Vision del repositorio
+La idea es simple: concentrar en un solo lugar la documentacion, las guias de trabajo, los borradores normativos, los scripts y los materiales reutilizables que hoy suelen quedar dispersos entre Drive, computadoras personales o mensajes sueltos.
 
-- Centralizar conocimiento institucional en un solo lugar.
-- Estandarizar tareas repetitivas con scripts y guias claras.
-- Reducir dependencia de "memoria personal" para procesos clave.
-- Dejar trazabilidad de decisiones, cambios y buenas practicas.
+## Para que sirve
 
-## Para que se va a usar
+- Reunir recursos utiles para docentes, equipo directivo y referentes TIC.
+- Dejar procedimientos claros para tareas que hoy dependen de memoria informal.
+- Ordenar scripts y automatizaciones con una guia de uso entendible.
+- Empezar a construir normativa institucional donde hoy aun no existe.
+- Facilitar que mas personas puedan continuar o mejorar el trabajo.
 
-- Guias de uso y procedimientos paso a paso.
-- Scripts para automatizar tareas administrativas y tecnicas.
-- Documentacion de infraestructura (ejemplo: futuro servidor de impresoras).
-- Normativa interna (ejemplo: reglamento de prestamos).
-- Recursos comunes y plantillas para uso institucional.
+## Que vas a encontrar
 
-## Alcance y evolucion
+1. [Indice general de contenidos](./docs/INDICE.md)
+2. [Guias y tutoriales](./docs/GUIAS/README.md)
+3. [Normativa institucional en construccion](./docs/NORMATIVA/README.md)
+4. [Documentacion tecnica e infraestructura](./docs/INFRAESTRUCTURA/README.md)
+5. [Scripts y automatizaciones](./scripts/README.md)
+6. [Recursos compartidos y modelos base](./recursos_compartidos/README.md)
 
-Actualmente este repositorio cumple el rol de centro operativo y documental.
+## Estado actual
 
-En paralelo se esta desarrollando una app web para centralizar estos flujos de trabajo. Cuando la primera version este publicada, este repositorio va a quedar como respaldo operativo, base documental y recurso de consulta para quien lo necesite.
+Este repositorio ya deja una base inicial para trabajar mejor, aunque varios documentos todavia estan en etapa de borrador.
 
-## Estructura inicial
+Hoy se incorporan como punto de partida:
 
-- `docs/INDICE.md`: mapa general de contenido.
-- `docs/GUIAS/`: guias y tutoriales.
-- `docs/INFRAESTRUCTURA/`: documentacion tecnica (red, impresoras, servicios).
-- `docs/NORMATIVA/`: reglamentos y acuerdos institucionales.
-- `scripts/`: scripts de automatizacion y sus guias de uso.
-- `recursos_compartidos/`: materiales y modelos reutilizables.
+- un README principal mas claro y navegable,
+- un indice funcional,
+- una guia detallada del script de inclusion para Linux y Windows,
+- borradores de politica de uso de equipamiento,
+- borrador de politica de backup,
+- una guia basica de normas APA para documentos institucionales.
 
-## Arranque rapido
+## Uso sugerido
 
-- Revisar `docs/INDICE.md` para navegar por area.
-- Revisar `CONTRIBUTING.md` antes de proponer cambios.
-- Para inclusion, ver `scripts/GUIA_USO_INCLUSION_V2.md`.
+1. Empezar por `docs/INDICE.md`.
+2. Si buscas procedimientos, entrar en `docs/GUIAS/`.
+3. Si buscas reglas o criterios comunes, entrar en `docs/NORMATIVA/`.
+4. Si necesitas automatizaciones, revisar `scripts/README.md` y su guia.
+5. Si quieres reutilizar modelos o ideas base, revisar `recursos_compartidos/`.
 
-## Proximos pasos sugeridos
+## Criterio de trabajo
 
-1. Inicializar este directorio como repositorio git.
-2. Copiar aca los scripts vigentes y su guia de uso.
-3. Cargar el primer indice funcional por area.
-4. Publicar una version inicial de normativa y recursos comunes.
+- Documentar pensando en que otra persona lo use sin explicacion adicional.
+- Mantener los borradores visibles para que puedan discutirse y mejorarse.
+- Priorizar recursos concretos y reutilizables antes que texto decorativo.
+- Evitar que el conocimiento quede atado a una sola persona.
+
+## Siguientes mejoras naturales
+
+1. Reemplazar la imagen de prueba por logo o foto institucional.
+2. Sumar plantillas reales de notas, actas y formularios.
+3. Definir version final de las politicas institucionales.
+4. Incorporar nuevos tutoriales segun necesidades del equipo.

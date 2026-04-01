@@ -1,10 +1,20 @@
 # Infraestructura
 
-Documentacion tecnica de la institucion.
+Documentacion tecnica y operativa vinculada a equipos, red, servicios y soporte.
 
-Lineas de trabajo previstas:
+## Objetivo
 
-- Mapa basico de red y equipos.
-- Politicas de respaldo y mantenimiento.
-- Proyecto de servidor de impresoras.
-- Procedimientos ante incidentes tecnicos.
+Ordenar conocimiento tecnico que hoy suele quedar disperso y dejar base para futuras mejoras.
+
+## Contenido actual
+
+- [Proyecto de servidor de impresoras](./proyecto_servidor_impresoras.md)
+
+## Contenido recomendado a sumar
+
+- inventario de equipos,
+- mapa basico de red,
+- accesos y responsables por area,
+- procedimientos ante incidentes,
+- mantenimiento preventivo,
+- respaldo y recuperacion.
