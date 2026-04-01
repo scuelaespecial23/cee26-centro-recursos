@@ -1,24 +1,42 @@
 # Reglamento de prestamos (borrador)
 
+Ultima actualizacion: 2026-03-30
+
 ## Objetivo
 
-Establecer criterios claros para el prestamo de recursos institucionales.
+Establecer criterios claros para el prestamo de recursos institucionales y reducir perdidas, confusiones o uso sin seguimiento.
 
 ## Alcance
 
-Aplica a equipos, perifericos y materiales definidos por la institucion.
+Aplica a equipos, perifericos, insumos o materiales que la institucion defina como prestables.
 
-## Lineamientos iniciales
+## Criterios base
 
-- Registro obligatorio de solicitud y devolucion.
-- Definicion de responsable por recurso prestado.
-- Estado del recurso al retirar y al devolver.
-- Plazos y renovaciones sujetas a disponibilidad.
+- Todo prestamo debe quedar registrado.
+- Todo recurso debe tener una persona responsable mientras este prestado.
+- La entrega y la devolucion deben dejar constancia del estado del recurso.
+- El prestamo puede rechazarse si el recurso ya esta reservado o si su uso afecta una tarea institucional prioritaria.
+
+## Registro minimo recomendado
+
+- fecha de entrega,
+- recurso prestado,
+- numero de inventario si existe,
+- persona responsable,
+- estado al retirar,
+- fecha prevista de devolucion,
+- estado al devolver,
+- observaciones.
+
+## Plazos
+
+- Los plazos deben definirse segun el tipo de recurso.
+- Las renovaciones quedan sujetas a disponibilidad y autorizacion.
 
 ## Incumplimientos
 
-Los casos de incumplimiento se evaluan segun normativa institucional vigente.
+Los casos de demora, perdida o dano deben quedar asentados para evaluacion institucional.
 
 ## Estado del documento
 
-Borrador para revision y aprobacion.
+Borrador inicial para revision y ajuste.
