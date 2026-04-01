@@ -1,28 +1,29 @@
 # Scripts de automatizacion
 
-Esta carpeta concentra automatizaciones y sus guias de uso.
+Esta carpeta concentra guias y referencias del flujo de Inclusion.
 
-## Disponible hoy
+## Referencia principal
 
-- `automatizar_inclusion_v2.py`: crea estructura de carpetas y permite distribuir documentacion comun. Se puede usar tanto en Linux como en Windows con Python 3.
-- `GUIA_USO_INCLUSION_V2.md`: guia detallada de uso en Linux y Windows.
+- `GUIA_USO_INCLUSION_V2.md`: guia operativa para docentes (Linux/Windows),
+  politicas de uso, trabajo con Drive sincronizado y ejemplos de flujo completo.
+
+## Scripts del flujo actual (entorno operativo CEE_26)
+
+- `automatizar_inclusion_v2.py`: crea estructura anual y distribuye docs comunes
+  (raiz, `01_documentacion_estudiante`, `02_docentes`, `03_actas_y_seguimiento`)
+  y permite envio individual a un docente de un estudiante.
+- `crear_historial_estudiantes.py`: vincula material historico con estudiantes y
+  lo copia en `historial/<anio>/...` con trazabilidad.
+- `cee26_desktop_app.py`: interfaz grafica para operar el flujo sin linea de
+  comandos.
 
 ## Recomendacion de uso
 
-Antes de ejecutar cualquier script:
-
-1. leer la guia,
-2. probar primero con `--dry-run`,
-3. validar rutas y archivos de entrada,
-4. recien despues ejecutar en modo real.
+1. Trabajar en una carpeta local sincronizada con Drive.
+2. Ejecutar siempre primero con `--dry-run`.
+3. Revisar salida y rutas destino.
+4. Ejecutar en modo real recien despues de validar.
 
 ## Acceso rapido
 
-- [Abrir guia detallada](./GUIA_USO_INCLUSION_V2.md)
-- [Abrir script principal](./automatizar_inclusion_v2.py)
-
-## Ejemplo minimo
-
-```bash
-python3 scripts/automatizar_inclusion_v2.py --base-dir . --anio 2026 --students-csv scripts/estudiantes_2026.csv --dry-run
-```
+- [Abrir guia para docentes](./GUIA_USO_INCLUSION_V2.md)

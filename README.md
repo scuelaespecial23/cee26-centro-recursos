@@ -31,7 +31,8 @@ Hoy se incorporan como punto de partida:
 
 - un README principal mas claro y navegable,
 - un indice funcional,
-- una guia detallada del script de inclusion para Linux y Windows,
+- una guia docente actualizada del flujo de inclusion (estructura, carga masiva,
+  envio individual por estudiante+docente e historial) para Linux y Windows,
 - borradores de politica de uso de equipamiento,
 - borrador de politica de backup,
 - una guia basica de normas APA para documentos institucionales.
