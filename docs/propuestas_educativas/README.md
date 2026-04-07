@@ -4,6 +4,7 @@
 
 **Área TIC – Propuesta de acompañamiento docente**
 
+### [Enlace descarga documento](https://drive.google.com/file/d/13t69sS91vcBETCTQVT-azP13SVZO7tJu/view?usp=sharing)
 ---
 
 ## 📌 Introducción
