@@ -1,5 +1,7 @@
 # Indice general
 
+[← Volver a Normativa](../README.md)
+
 Ultima actualizacion: 2026-03-30
 
 ## 1. Inicio rapido
@@ -35,10 +37,3 @@ Ultima actualizacion: 2026-03-30
 ## 6. Recursos compartidos
 
 - [Recursos compartidos - vista general](../recursos_compartidos/README.md)
-
-## 7. Pendientes sugeridos
-
-- Agregar plantillas reales de documentos institucionales.
-- Sumar tutoriales cortos en video o con capturas.
-- Publicar versiones aprobadas de la normativa.
-- Incorporar mas scripts o herramientas segun necesidad.

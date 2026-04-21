@@ -1,5 +1,7 @@
 # Normativa institucional
 
+[← Volver a Normativa](../INDICE.md)
+
 Espacio para reglamentos, criterios y acuerdos de uso comun dentro de la institucion.
 
 ## Estado

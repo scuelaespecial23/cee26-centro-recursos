@@ -1,4 +1,4 @@
-# Infraestructura
+# Documentacion tecnica y Infraestructura
 
 Documentacion tecnica y operativa vinculada a equipos, red, servicios y soporte.
 
@@ -8,7 +8,7 @@ Ordenar conocimiento tecnico que hoy suele quedar disperso y dejar base para fut
 
 ## Contenido actual
 
-- [Proyecto de servidor de impresoras](./proyecto_servidor_impresoras.md)
+- [google workspace](./google-workspace/google-workspace-organizacion.md)
 
 ## Contenido recomendado a sumar
 

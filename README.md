@@ -18,9 +18,9 @@ La idea es simple: concentrar en un solo lugar la documentacion, las guias de tr
 
 1. [Indice general de contenidos](./docs/INDICE.md)
 2. [Guias y tutoriales](./docs/GUIAS/README.md)
-3. [Normativa institucional en construccion](./docs/NORMATIVA/README.md)
+3. [Normativa institucional](./docs/NORMATIVA/README.md)
 4. [Documentacion tecnica e infraestructura](./docs/INFRAESTRUCTURA/README.md)
-5. [Scripts y automatizaciones](./scripts/README.md)
+5. [Programas y Scripts](./scripts/README.md)
 6. [Recursos compartidos y modelos base](./recursos_compartidos/README.md)
 7. [Propuestas educativas](./docs/propuestas_educativas/README.md)
 
