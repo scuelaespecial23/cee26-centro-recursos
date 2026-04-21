@@ -1,6 +1,12 @@
 # Indice general
 
-[← Volver a Normativa](../README.md)
+<div style="position: sticky; top: 12px; z-index: 1000;">
+  <a href="../README.md" style="display:inline-block; padding:8px 12px; background:#f5f5f5; border:1px solid #ccc; border-radius:8px; text-decoration:none;">
+    ← Volver a atras
+  </a>
+</div>
+
+***
 
 Ultima actualizacion: 2026-03-30
 
@@ -23,7 +29,7 @@ Ultima actualizacion: 2026-03-30
 - [Politica de uso de equipamiento - borrador](./NORMATIVA/politica_uso_equipamiento_borrador.md)
 - [Politica de backup - borrador](./NORMATIVA/politica_backup_borrador.md)
 
-## 4. Infraestructura y soporte
+## 4. Documentacion tecnica e infraestructura
 
 - [Infraestructura - vista general](./INFRAESTRUCTURA/README.md)
 - [Proyecto de servidor de impresoras](./INFRAESTRUCTURA/proyecto_servidor_impresoras.md)

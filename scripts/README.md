@@ -1,29 +1,50 @@
-# Scripts de automatizacion
+# CEE26 Inclusion - Programa descargable
 
-Esta carpeta concentra guias y referencias del flujo de Inclusion.
+<div style="position: sticky; top: 12px; z-index: 1000;">
+  <a href="../README.md" style="display:inline-block; padding:8px 12px; background:#f5f5f5; border:1px solid #ccc; border-radius:8px; text-decoration:none;">
+    ← Volver a Normativa
+  </a>
+</div>
 
-## Referencia principal
+---
 
-- `GUIA_USO_INCLUSION_V2.md`: guia operativa para docentes (Linux/Windows),
-  politicas de uso, trabajo con Drive sincronizado y ejemplos de flujo completo.
+Esta carpeta ya no contiene solo scripts: ahora incluye el programa
+CEE26 Inclusion para docentes, con instaladores para Windows y Linux (Debian),
+y su documentacion de uso.
 
-## Scripts del flujo actual (entorno operativo CEE_26)
+## Contenido
 
-- `automatizar_inclusion_v2.py`: crea estructura anual y distribuye docs comunes
-  (raiz, `01_documentacion_estudiante`, `02_docentes`, `03_actas_y_seguimiento`)
-  y permite envio individual a un docente de un estudiante.
-- `crear_historial_estudiantes.py`: vincula material historico con estudiantes y
-  lo copia en `historial/<anio>/...` con trazabilidad.
-- `cee26_desktop_app.py`: interfaz grafica para operar el flujo sin linea de
-  comandos.
+- `automatiza_inclusion/`
+  - `cee26-inclusion_0.2.0_amd64.deb` (instalador Linux Debian/Ubuntu)
+  - `cee26_inclusion_0.2.0_linux_amd64.tar.gz` (paquete Linux portable)
+  - `cee26_inclusion_linux` (binario Linux)
+  - `CEE26_Inclusion_windows.exe` (ejecutable Windows)
+  - `CEE26_Inclusion_0.2.0_windows.zip` (paquete comprimido Windows)
+  - `GUIA_USO_INCLUSION_V2.md` (guia docente actualizada)
 
-## Recomendacion de uso
+## Instalacion rapida
 
-1. Trabajar en una carpeta local sincronizada con Drive.
-2. Ejecutar siempre primero con `--dry-run`.
-3. Revisar salida y rutas destino.
-4. Ejecutar en modo real recien despues de validar.
+No es necesario tener Python instalado para usar los ejecutables publicados.
 
-## Acceso rapido
+### Linux Debian/Ubuntu
 
-- [Abrir guia para docentes](./GUIA_USO_INCLUSION_V2.md)
+```bash
+sudo dpkg -i scripts/automatiza_inclusion/cee26-inclusion_0.2.0_amd64.deb
+```
+
+Si faltan dependencias:
+
+```bash
+sudo apt-get -f install
+```
+
+### Windows
+
+- Opcion 1: ejecutar `scripts/automatiza_inclusion/CEE26_Inclusion_windows.exe`
+- Opcion 2: descomprimir `scripts/automatiza_inclusion/CEE26_Inclusion_0.2.0_windows.zip`
+
+Nota: en Windows no hace falta instalar Python para estas opciones.
+
+## Guia de uso
+
+- [Abrir guia para docentes](./automatiza_inclusion/GUIA_USO_INCLUSION_V2.md)

@@ -1,5 +1,13 @@
 # 🏫 EE N°23 - Organización de Google Workspace (CEE26)
 
+<div style="position: sticky; top: 12px; z-index: 1000;">
+  <a href="../README.md" style="display:inline-block; padding:8px 12px; background:#f5f5f5; border:1px solid #ccc; border-radius:8px; text-decoration:none;">
+    ← Volver a Normativa
+  </a>
+</div>
+
+---
+
 ## 📌 Objetivo
 
 Documentar la estructura organizativa implementada en Google Workspace para la institución **EE N°23**, incluyendo:
