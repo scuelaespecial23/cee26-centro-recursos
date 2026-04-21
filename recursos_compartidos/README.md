@@ -1,5 +1,13 @@
 # Recursos compartidos
 
+<div style="position: sticky; top: 12px; z-index: 1000;">
+  <a href="../README.md" style="display:inline-block; padding:8px 12px; background:#f5f5f5; border:1px solid #ccc; border-radius:8px; text-decoration:none;">
+    ← Volver a atras
+  </a>
+</div>
+
+***
+
 Materiales reutilizables por distintas areas de la institucion.
 
 ## Para que sirve esta carpeta
