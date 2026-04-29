@@ -8,7 +8,7 @@
 
 ***
 
-Ultima actualizacion: 2026-03-30
+Ultima actualizacion: 2026-04-29
 
 ## 1. Inicio rapido
 
@@ -19,6 +19,9 @@ Ultima actualizacion: 2026-03-30
 
 - [Guias - vista general](./GUIAS/README.md)
 - [Guia basica de normas APA](./GUIAS/guia_basica_normas_apa.md)
+- [Guias de impresoras](./GUIAS/impresoras/README.md)
+- [Epson L220 en Linux](./GUIAS/impresoras/guia_epson_l220_linux.md)
+- [Epson L220 en Windows](./GUIAS/impresoras/guia_epson_l220_windows.md)
 
 ## 3. Normativa institucional
 

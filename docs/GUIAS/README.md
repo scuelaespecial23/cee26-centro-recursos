@@ -13,6 +13,9 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 ## Guias disponibles
 
 - [Guia basica de normas APA](./guia_basica_normas_apa.md)
+- [Guias de impresoras](./impresoras/README.md)
+- [Epson L220 en Linux](./impresoras/guia_epson_l220_linux.md)
+- [Epson L220 en Windows](./impresoras/guia_epson_l220_windows.md)
 
 ## Que tipo de contenido va aca
 
@@ -20,6 +23,7 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 - Procedimientos frecuentes.
 - Buenas practicas para armado de documentos.
 - Ayudas rapidas para uso de carpetas, archivos y automatizaciones.
+- Guias de instalacion y soporte de equipos de uso institucional.
 
 ## Pendientes recomendados
 
