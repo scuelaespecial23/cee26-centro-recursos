@@ -17,6 +17,7 @@ Ordenar conocimiento tecnico que hoy suele quedar disperso y dejar base para fut
 ## Contenido actual
 
 - [google workspace](./google-workspace/google-workspace-organizacion.md)
+- [servidor de archivos institucional EEE23](./servidor_archivos_eee23.md)
 
 ## Contenido recomendado a sumar
 

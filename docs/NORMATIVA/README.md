@@ -19,6 +19,7 @@ La mayor parte del contenido aun esta en etapa de borrador inicial. La idea es u
 - [Reglamento de prestamos - borrador](./reglamento_prestamos_borrador.md)
 - [Politica de uso de equipamiento - borrador](./politica_uso_equipamiento_borrador.md)
 - [Politica de backup - borrador](./politica_backup_borrador.md)
+- [Politica de uso de carpeta compartida - borrador](./politica_uso_carpeta_compartida_borrador.md)
 
 ## Recomendacion
 

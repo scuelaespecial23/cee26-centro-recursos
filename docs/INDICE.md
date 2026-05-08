@@ -8,7 +8,7 @@
 
 ***
 
-Ultima actualizacion: 2026-04-29
+Ultima actualizacion: 2026-05-08
 
 ## 1. Inicio rapido
 
@@ -19,6 +19,7 @@ Ultima actualizacion: 2026-04-29
 
 - [Guias - vista general](./GUIAS/README.md)
 - [Guia basica de normas APA](./GUIAS/guia_basica_normas_apa.md)
+- [Guia docente de uso de la carpeta compartida](./GUIAS/guia_carpeta_compartida_docentes.md)
 - [Guias de impresoras](./GUIAS/impresoras/README.md)
 - [Epson L220 en Linux](./GUIAS/impresoras/guia_epson_l220_linux.md)
 - [Epson L220 en Windows](./GUIAS/impresoras/guia_epson_l220_windows.md)
@@ -29,10 +30,12 @@ Ultima actualizacion: 2026-04-29
 - [Reglamento de prestamos - borrador](./NORMATIVA/reglamento_prestamos_borrador.md)
 - [Politica de uso de equipamiento - borrador](./NORMATIVA/politica_uso_equipamiento_borrador.md)
 - [Politica de backup - borrador](./NORMATIVA/politica_backup_borrador.md)
+- [Politica de uso de carpeta compartida - borrador](./NORMATIVA/politica_uso_carpeta_compartida_borrador.md)
 
 ## 4. Documentacion tecnica e infraestructura
 
 - [Infraestructura - vista general](./INFRAESTRUCTURA/README.md)
+- [Servidor de archivos institucional EEE23](./INFRAESTRUCTURA/servidor_archivos_eee23.md)
 
 ## 5. Scripts y automatizaciones
 

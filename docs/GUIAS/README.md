@@ -13,6 +13,7 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 ## Guias disponibles
 
 - [Guia basica de normas APA](./guia_basica_normas_apa.md)
+- [Guia docente de uso de la carpeta compartida](./guia_carpeta_compartida_docentes.md)
 - [Guias de impresoras](./impresoras/README.md)
 - [Epson L220 en Linux](./impresoras/guia_epson_l220_linux.md)
 - [Epson L220 en Windows](./impresoras/guia_epson_l220_windows.md)
@@ -28,5 +29,6 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 ## Pendientes recomendados
 
 - Guia de uso de Drive compartido.
+- Completar guia de carpeta compartida con tutorial en video.
 - Guia de nombres de archivos y carpetas.
 - Tutorial breve para carga y revision de CSV.
