@@ -1,6 +1,6 @@
 # Guia docente de uso de la carpeta compartida
 
-Ultima actualizacion: 2026-05-08
+Ultima actualizacion: 2026-05-10
 
 ## Objetivo
 
@@ -45,12 +45,46 @@ Ejemplo pensado para GNOME Archivos o exploradores compatibles con `smb://`:
 4. Presionar `Conectar`.
 5. Ingresar el usuario y la contrasena entregados por TIC.
 
+Si el equipo Linux no tiene herramientas SMB instaladas, primero ejecutar:
+
+```bash
+sudo apt update
+sudo apt install -y smbclient cifs-utils
+```
+
+Prueba rapida por terminal:
+
+```bash
+smbclient //srv-ee23/compartido -U secretaria
+```
+
+Montaje manual en Linux (opcional):
+
+```bash
+sudo mkdir -p /mnt/compartido
+sudo mount -t cifs //srv-ee23/compartido /mnt/compartido -o username=secretaria,uid=$(id -u),gid=$(id -g),iocharset=utf8
+```
+
+Para desmontar:
+
+```bash
+sudo umount /mnt/compartido
+```
+
 ## Acceso desde Windows
 
 1. Abrir el `Explorador de archivos`.
 2. Escribir `\\192.168.0.102\compartido` en la barra de direcciones.
 3. Presionar `Enter`.
 4. Ingresar el usuario y la contrasena entregados por TIC cuando el sistema lo solicite.
+
+Nota: Windows ya trae cliente SMB incorporado, no hace falta instalar Samba Client para uso habitual.
+
+Si Windows insiste con una credencial vieja, abrir `CMD` y ejecutar:
+
+```bat
+net use * /delete /y
+```
 
 ## Que carpetas va a ver un docente
 
@@ -67,6 +101,8 @@ Un docente comun puede ver la estructura general, pero normalmente trabajara sob
 
 - `00-publico`
 - `01-docentes`
+
+La carpeta `99-archivo` esta reservada para personal autorizado (`direccion`, `tecnico` y `tic`).
 
 ## Primer paso recomendado dentro de `01-docentes`
 

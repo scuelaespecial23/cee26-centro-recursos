@@ -8,7 +8,7 @@
 
 ***
 
-Ultima actualizacion: 2026-05-08
+Ultima actualizacion: 2026-05-11
 
 ## 1. Inicio rapido
 
@@ -20,6 +20,7 @@ Ultima actualizacion: 2026-05-08
 - [Guias - vista general](./GUIAS/README.md)
 - [Guia basica de normas APA](./GUIAS/guia_basica_normas_apa.md)
 - [Guia docente de uso de la carpeta compartida](./GUIAS/guia_carpeta_compartida_docentes.md)
+- [Guia rapida de acceso SMB (Linux y Windows)](./GUIAS/guia_acceso_smb_linux_windows.md)
 - [Guias de impresoras](./GUIAS/impresoras/README.md)
 - [Epson L220 en Linux](./GUIAS/impresoras/guia_epson_l220_linux.md)
 - [Epson L220 en Windows](./GUIAS/impresoras/guia_epson_l220_windows.md)
@@ -36,6 +37,8 @@ Ultima actualizacion: 2026-05-08
 
 - [Infraestructura - vista general](./INFRAESTRUCTURA/README.md)
 - [Servidor de archivos institucional EEE23](./INFRAESTRUCTURA/servidor_archivos_eee23.md)
+- [Backup operativo de Google Drive - INCLUSIÓN_2026](./INFRAESTRUCTURA/backup_google_drive_inclusion_2026.md)
+- [Bitacora operativa de servidor srv-ee23](./INFRAESTRUCTURA/bitacora_operativa_srv-ee23.md)
 
 ## 5. Scripts y automatizaciones
 

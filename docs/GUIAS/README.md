@@ -14,6 +14,7 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 
 - [Guia basica de normas APA](./guia_basica_normas_apa.md)
 - [Guia docente de uso de la carpeta compartida](./guia_carpeta_compartida_docentes.md)
+- [Guia rapida de acceso SMB (Linux y Windows)](./guia_acceso_smb_linux_windows.md)
 - [Guias de impresoras](./impresoras/README.md)
 - [Epson L220 en Linux](./impresoras/guia_epson_l220_linux.md)
 - [Epson L220 en Windows](./impresoras/guia_epson_l220_windows.md)
