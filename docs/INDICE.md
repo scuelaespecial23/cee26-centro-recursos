@@ -38,7 +38,6 @@ Ultima actualizacion: 2026-05-11
 - [Infraestructura - vista general](./INFRAESTRUCTURA/README.md)
 - [Servidor de archivos institucional EEE23](./INFRAESTRUCTURA/servidor_archivos_eee23.md)
 - [Backup operativo de Google Drive - INCLUSIÓN_2026](./INFRAESTRUCTURA/backup_google_drive_inclusion_2026.md)
-- [Bitacora operativa de servidor srv-ee23](./INFRAESTRUCTURA/bitacora_operativa_srv-ee23.md)
 
 ## 5. Scripts y automatizaciones
 

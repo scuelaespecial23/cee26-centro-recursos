@@ -19,7 +19,6 @@ Ordenar conocimiento tecnico que hoy suele quedar disperso y dejar base para fut
 - [google workspace](./google-workspace/google-workspace-organizacion.md)
 - [servidor de archivos institucional EEE23](./servidor_archivos_eee23.md)
 - [backup operativo de Google Drive - INCLUSIÓN_2026](./backup_google_drive_inclusion_2026.md)
-- [bitacora operativa de servidor srv-ee23](./bitacora_operativa_srv-ee23.md)
 
 ## Contenido recomendado a sumar
 
