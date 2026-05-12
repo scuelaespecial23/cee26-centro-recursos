@@ -1,6 +1,6 @@
 # Guia docente de uso de la carpeta compartida
 
-Ultima actualizacion: 2026-05-10
+Ultima actualizacion: 2026-05-12
 
 ## Objetivo
 
@@ -183,10 +183,10 @@ Si un docente hace buen uso del recurso y realmente necesita un espacio mas priv
 
 ## Video tutorial
 
-Espacio reservado para agregar despues:
+Si preferis ver el procedimiento completo antes de hacerlo, tenes estos tutoriales:
 
-- tutorial en video de conexion desde Linux,
-- tutorial en video de conexion desde Windows.
+- Windows (conexion, inicio de sesion y uso de usuarios SMB): https://youtu.be/_uidaaKAnvQ
+- Linux (configuracion de carpeta compartida Samba en equipo local y conexion al servidor institucional): https://youtu.be/YHuS4O7o2Io
 
 ## Referencias
 

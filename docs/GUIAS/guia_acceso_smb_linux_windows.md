@@ -1,6 +1,6 @@
 # Guia rapida de acceso SMB (Linux y Windows)
 
-Ultima actualizacion: 2026-05-10
+Ultima actualizacion: 2026-05-12
 
 ## Objetivo
 
@@ -81,5 +81,7 @@ net use Z: /delete
 
 ## Referencias
 
+- Tutorial Windows (SMB): https://youtu.be/_uidaaKAnvQ
+- Tutorial Linux (Samba/SMB): https://youtu.be/YHuS4O7o2Io
 - [Guia docente de uso de la carpeta compartida](./guia_carpeta_compartida_docentes.md)
 - [Servidor de archivos institucional EEE23](../INFRAESTRUCTURA/servidor_archivos_eee23.md)

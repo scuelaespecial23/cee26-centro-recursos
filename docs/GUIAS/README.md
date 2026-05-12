@@ -30,6 +30,5 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 ## Pendientes recomendados
 
 - Guia de uso de Drive compartido.
-- Completar guia de carpeta compartida con tutorial en video.
 - Guia de nombres de archivos y carpetas.
 - Tutorial breve para carga y revision de CSV.
