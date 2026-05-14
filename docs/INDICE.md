@@ -46,3 +46,4 @@ Ultima actualizacion: 2026-05-11
 ## 6. Recursos compartidos
 
 - [Recursos compartidos - vista general](../recursos_compartidos/README.md)
+- [Modelos base - plantilla de alta de usuario (Servidor CEE23)](../recursos_compartidos/modelos_base/plantilla_alta_usuario_servidor_cee23.md)

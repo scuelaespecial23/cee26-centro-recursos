@@ -31,3 +31,7 @@ Materiales reutilizables por distintas areas de la institucion.
 - Las reglas y criterios van en `docs/NORMATIVA/`.
 - Las explicaciones paso a paso van en `docs/GUIAS/`.
 - Los materiales reutilizables van aca.
+
+## Modelos base disponibles
+
+- [Plantilla de alta de usuario (Servidor CEE23)](./modelos_base/plantilla_alta_usuario_servidor_cee23.md)
