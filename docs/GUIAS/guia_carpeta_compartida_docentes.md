@@ -1,6 +1,6 @@
 # Guia docente de uso de la carpeta compartida
 
-Ultima actualizacion: 2026-05-12
+Ultima actualizacion: 2026-05-14
 
 ## Objetivo
 
@@ -29,6 +29,12 @@ Para solicitar credenciales:
 - o escribir a `guillermoneculqueo@gmail.com`.
 
 Mas adelante, el canal previsto sera `tic@escuelaespecial.com`.
+
+## Guias en video
+
+- [Guia actualizada Windows](https://youtu.be/l5bieCmHfjA)
+- [Guia Linux - Ubuntu](https://youtu.be/YHuS4O7o2Io)
+- [Guia Windows](https://youtu.be/_uidaaKAnvQ)
 
 ## Direccion de acceso dentro de la institucion
 
