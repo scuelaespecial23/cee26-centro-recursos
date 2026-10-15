@@ -18,6 +18,7 @@ Espacio para documentar procesos de trabajo que conviene dejar por escrito para 
 - [Guias de impresoras](./impresoras/README.md)
 - [Epson L220 en Linux](./impresoras/guia_epson_l220_linux.md)
 - [Epson L220 en Windows](./impresoras/guia_epson_l220_windows.md)
+- [Guia de restauracion de backup de carpeta INCLUSION desde el servidor  LOCAL](./procedimiento_restauracion_backup_INCLUSION2026.md)
 
 ## Que tipo de contenido va aca
 
